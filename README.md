@@ -22,8 +22,8 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KshBlitz&theme=dark&background=0d1117&border=00ff9d&ring=00ff9d&fire=ff4655&currStreakLabel=00ff9d&sideLabels=c8d6e5&dates=4a5568" height="165"/>
-&nbsp;
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKshBlitz&count_bg=%2300FF9D&title_bg=%230a0c0f&icon=github.svg&icon_color=%2300FF9D&title=profile+hits&edge_flat=false" height="28"/>
+&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=KshBlitz&style=for-the-badge&color=00ff9d&label=PROFILE+VIEWS&abbreviated=true" height="28"/>
 
 </div>
 
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KshBlitz&theme=matrix&column=6&margin-w=8&margin-h=8&no-bg=true&no-frame=false" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KshBlitz&theme=darkhub&column=6&margin-w=8&margin-h=8&no-bg=true&no-frame=false" width="100%"/>
 
 </div>
 
