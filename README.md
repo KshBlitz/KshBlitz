@@ -1,92 +1,52 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kalash%20Mahajan&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF9D&width=500&lines=Kalash;SOC+Analyst+%2F+Detection+Engineer;Think+attacker.+Build+defender.)](https://git.io/typing-svg)
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+tools+and+automation;Exploring+systems+and+AI;Turning+ideas+into+projects"/>
-</p>
-
-<p align="center">
-Building tools • Automation • AI experiments • Systems
-</p>
+`Pune → Open to Relocation` &nbsp;·&nbsp; `CEH Certified` &nbsp;·&nbsp; `~2 yrs in the field`
 
 ---
 
-## 👋 Hey
+### `$ stack`
 
-I'm **Kalash** — a tech guy who enjoys understanding how systems work under the hood and building things that make life easier.
-
-Most of my projects revolve around:
-
-- automation  
-- infrastructure & systems  
-- security telemetry  
-- small AI experiments  
-- random tools that solve annoying problems  
-
-Sometimes that overlaps with **security operations and detection engineering**, sometimes it's just **cool tech experiments**.
+![ELK](https://img.shields.io/badge/ELK_Stack-0a0c0f?style=flat-square&logo=elastic&logoColor=00ff9d)
+![Wazuh](https://img.shields.io/badge/Wazuh-0a0c0f?style=flat-square&logoColor=00ff9d)
+![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0a0c0f?style=flat-square&logo=microsoft&logoColor=00cc7a)
+![KQL](https://img.shields.io/badge/KQL-0a0c0f?style=flat-square&logo=microsoftazure&logoColor=00cc7a)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-0a0c0f?style=flat-square&logoColor=ff4655)
+![Wireshark](https://img.shields.io/badge/Wireshark-0a0c0f?style=flat-square&logo=wireshark&logoColor=ffb347)
+![Python](https://img.shields.io/badge/Python-0a0c0f?style=flat-square&logo=python&logoColor=7eb8f7)
+![PowerShell](https://img.shields.io/badge/PowerShell-0a0c0f?style=flat-square&logo=powershell&logoColor=7eb8f7)
 
 ---
 
-## 🛠 Tech I Work With
+### `$ stats`
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,azure,vscode" />
-</p>
+<div align="center">
 
-Also spend time around:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KshBlitz&theme=dark&background=0d1117&border=00ff9d&ring=00ff9d&fire=ff4655&currStreakLabel=00ff9d&sideLabels=c8d6e5&dates=4a5568" height="165"/>
+&nbsp;
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKshBlitz&count_bg=%2300FF9D&title_bg=%230a0c0f&icon=github.svg&icon_color=%2300FF9D&title=profile+hits&edge_flat=false" height="28"/>
 
-```
-SIEM • Observability • Log pipelines • KQL
-Detection engineering • Network telemetry
-AI experimentation • Security automation
-```
+</div>
 
----
+<div align="center">
 
-## 🚀 Projects
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KshBlitz&bg_color=0d1117&color=00ff9d&line=00cc7a&point=ffffff&area=true&area_color=00ff9d&hide_border=false&border_color=00ff9d&custom_title=Contribution+Activity" width="100%"/>
 
-### Microsoft Stack SOC Lab
-Enterprise-style SOC lab exploring telemetry, detection logic, and investigation workflows using Microsoft security tooling.
+</div>
 
-### VerbaSafe
-AI-based system for detecting synthetic speech and deepfake voice artifacts.
+<div align="center">
 
-### Security / Automation Experiments
-Small tools for testing detections, analyzing logs, and simulating attacker behavior.
+<img src="https://github-profile-trophy.vercel.app/?username=KshBlitz&theme=matrix&column=6&margin-w=8&margin-h=8&no-bg=true&no-frame=false" width="100%"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KshBlitz&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-0a0c0f?style=flat-square&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/kalashmahajan)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/email-0a0c0f?style=flat-square&logo=gmail&logoColor=ff4655)](mailto:mahajankalash8@gmail.com)
+&nbsp;&nbsp;
+[![IJCRT](https://img.shields.io/badge/published-IJCRT-0a0c0f?style=flat-square&logoColor=ffb347)](https://ijcrt.org/papers/IJCRT25A5633.pdf)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KshBlitz&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KshBlitz&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect
-
-LinkedIn  
-https://www.linkedin.com/in/kalashmahajan/
-
-GitHub  
-https://github.com/KshBlitz
-
----
-
-<p align="center">
-Curious about systems, automation, and building useful tech.
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</div>
